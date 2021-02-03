@@ -1,10 +1,10 @@
 # ToDoList
-
-App deployed and running on a Heroku Server.
-
 Link : https://guarded-gorge-57329.herokuapp.com/
 
-(Incomplete)
-adding a path name at the end of the link creates a new webpage with given title
-ex: Title = Work
-    if URL is https://guarded-gorge-57329.herokuapp.com/work
+       https://guarded-gorge-57329.herokuapp.com/work
+       
+# Screenshot
+![todo](https://user-images.githubusercontent.com/65303903/106795651-5736fa80-6680-11eb-8350-b6dacfb27611.png)
+
+
+
